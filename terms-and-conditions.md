@@ -1,5 +1,5 @@
 # Terms and Conditions
-Thank you for choosing **Queen's Travel Agency LLC**, powered by [Fora Travel, Inc. ("Fora")](https://www.foratravel.com/), for your travel planning needs.
+Thank you for choosing **Queen's Travel Agency LLC**, powered by [Fora Travel, Inc. ("Fora")](https://www.foratravel.com/), for your travel planning needs.  Mary Kathryn Queen (owner of Queen's Travel Agency LLC) is an independent travel advisor of Fora Travel, Inc. (“Fora”).
 
 ![Queen's Travel Agency LLC Small Logo](images/Original%20Logo%20Symbol%20Small.png)MK Queen Travel by Queen's Travel Agency LLC <br>
 Powered by Fora Travel, Inc.
@@ -7,9 +7,9 @@ Powered by Fora Travel, Inc.
 <br>
 <br>
 
-The following Terms and Conditions (“Terms”) govern your (“you”, “your”, or “Client”) relationship with *Queen's Travel Agency LLC* (“we,” “us,” “our,” or “Agency”) and outline the obligations and expectations for both parties.
+The following Terms and Conditions (“Terms”) govern your (“you”, “your”, or “Client”) relationship with *Queen's Travel Agency LLC* (“we”, “us”, “our”, or “Agency”) and outline the obligations and expectations for both parties.
 
-Please read these Terms carefully before booking any services.
+Please read these Terms carefully before booking any services with us.
 
 <br>
 
@@ -86,7 +86,7 @@ Depending upon the level of service a planning fee may be charged. Amount of fee
 
 <br>
 
----------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
 BY BOOKING WITH *QUEEN's TRAVEL AGENCY LLC*, powered by Fora Travel, Inc., YOU AGREE TO THESE **TERMS AND CONDITIONS**.
 <br>
 If you have any questions, please [contact us](mailto:marykathryn.queen@fora.travel) before making your booking.
