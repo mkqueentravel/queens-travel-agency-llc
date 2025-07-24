@@ -1,6 +1,9 @@
 # Terms and Conditions
 Thank you for choosing **Queen's Travel Agency LLC**, powered by [Fora Travel](https://www.foratravel.com/), for your travel planning needs.
 
+![Queen's Travel Agency LLC Small Logo](images/Original%20Logo%20Symbol%20Small.png)MK Queen Travel by Queen's Travel Agency LLC <br>
+Powered by Fora Travel, Inc.
+
 <br>
 <br>
 
@@ -88,3 +91,6 @@ BY BOOKING WITH *QUEEN's TRAVEL AGENCY LLC*, powered by Fora Travel, Inc., YOU A
 <br>
 If you have any questions, please [contact us](mailto:marykathryn.queen@fora.travel) before making your booking.
 
+<br>
+![Queen's Travel Agency LLC Small Logo](images/Original%20Logo%20Symbol%20Small.png) MK Queen Travel by Queen's Travel Agency LLC
+Powered by Fora Travel, Inc.
