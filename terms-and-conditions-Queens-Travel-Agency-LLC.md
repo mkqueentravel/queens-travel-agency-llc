@@ -99,7 +99,7 @@ Queen's Travel Agency LLC standard office hours are Monday to Friday from 9:00 a
 <br>
 
 ## Amendments
-  - **Changes to Terms** We reserve the right to update or modify these Terms at any time. The most current version is available [here](https://drive.google.com/file/d/1ZPXPhINQzX5l6BWxyifQh1i-_onKSVeh/view?usp=sharing) and will be provided upon request.
+  - **Changes to Terms** We reserve the right to update or modify these Terms at any time. The most current version is available [here](https://drive.google.com/file/d/1rR2jymEYfe3Qbh3k1TYXwIaVF7eM-J00/view?usp=sharing) and will be provided upon request.
 
 <br>
 <br>
